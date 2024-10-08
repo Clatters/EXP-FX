@@ -5,8 +5,8 @@ Depending on the Sibilla uploaded firmware, EXP-FX can either act as an actual S
 
 ## Table of contents
 
-- [EXP (il Sole)](#EXP-(il-Sole))
-- [FX (la Luna)](#FX-(la-Luna))
+- [EXP (il Sole)](#EXP-il-Sole)
+- [FX (la Luna)](#FX-la-Luna)
 - [Firmware](#Firmware)
 
 <br/><br/><br/>
