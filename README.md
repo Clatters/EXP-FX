@@ -56,5 +56,5 @@ More information on both firmwares behavious are available by downloading the pr
 
 ## Firmware
 
-Regardless on the desired EXP or FX application, Sibilla needs to be reprogrammed n order to accept EXP-FX as an expansion module. The programming procedure is very similar to the one used to update Sibilla, but with a few extra steps. Please visit the dedicated section on the [Sibilla Setup and Programming page](https://github.com/Clatters/Sibilla/tree/main/Official%20firmwares).
+Regardless on the desired EXP or FX application, Sibilla needs to be reprogrammed in order to accept EXP-FX as an expansion module. The programming procedure is very similar to the one used to update Sibilla, but with a few extra steps. Please visit the dedicated section on the [Sibilla Setup and Programming page](https://github.com/Clatters/Sibilla/tree/main/Official%20firmwares).
 
