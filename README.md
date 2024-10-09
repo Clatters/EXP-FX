@@ -27,24 +27,21 @@ With the help of this firmware, Sibilla's controls stay untouched and the follow
 - **RELEASE**: sets the duration of the envelope release stage. This is the time it takes for the envelope to go from its maximum level back to 0 after the gate is released (max length is 5 seconds);
 - **Q**: sets the peak level of Sibilla’s resonant LP filter (Resonance). When fully counterclockwise, resonant peak will be rounded and become more apparent with higher settings, depending on the harmonics created by Rise and Fall parameters of Sibilla.
 
-#### Current draw
-- +12V: 140mA;
-- -12V: 33mA;
-- +5V: 0mA;
-
 ## FX (la Luna)
 <h3 align="center">
 Everything regarding FX is written with white (black panel) or black (silver panel) graphics 
 on the module faceplate.
 </h3> <br/>
 
-With configurable eurorack/line stereo inputs, turns your Sibilla into an intricate stereo pitch shifting delay effect. Splits your incoming sound in two separate pitch shifted tracks whose stereophony is affected by LFOs movements, white noise, delay lines and sampled bits of audio.
+With configurable eurorack/line stereo inputs, turns the whole duo (FX + Sibilla) into an intricate stereo pitch shifting delay droning effect. Splits your incoming sound in two separate pitch shifted tracks whose stereophony is affected by LFOs movements, white noise, delay lines and sampled bits of audio.
 
-When installing this firmware, the whole duo (FX + Sibilla) turns into an intricate stereo pitchshifting droning module with Sibilla's parameters performing the same functionalities as always, but applied to the incoming input audio signals:
+When installing this firmware, Sibilla's parameters perform the same functionalities as always, but applied to the incoming input audio signals:
 - **RISE**: pitch-shifts (from low to high pitch) the incoming sound on the left channel;
 - **FALL**: pitch-shifts (from high to low pitch) the incoming sound on the right channel;
 
-As for Sibilla, the stereophony of these pitch-shifted tracks is affected by the movement of two free running LFOs with configurable waveforms and can be altered by a resonant LPF and the addition of a white noise source. Sibilla's sampling delay network is now open and can be directly modified by the user:
+As for Sibilla, the stereophony of these pitch-shifted tracks is affected by the movement of two free running LFOs with configurable waveforms and can be altered by a resonant LPF and the addition of a white noise source.
+
+In addition, Sibilla's sampling delay network is now open and can be directly modified by the user:
 - **BUFFER SIZE**: controls the real time sampling window length. It’s nearly 100ms when the knob is fully closed and goes up to 1s with the knob fully clockwise;
 - **FEEDBACK**: controls the amount of sampled and pitch shifted audio sent back into the sampler;
 - **FREEZE**: manually freezes the audio buffer to the last recorded bit of audio. While freezed, the buffer size can still be modified;
@@ -78,7 +75,10 @@ EXP-FX doesn't draw current directly from your system but relies on Sibilla's po
 
 ### Installation
 
-EXP-FX connects to Sibilla with a small 12 contacts, 0.635mm pitch ribbon cable following the same rules of Eurorack power ribbon cables: cable's red stripe is indicated on the module pcb by a white line (EXP-FX) and small white dot (Sibilla).
+EXP-FX connects to Sibilla with a small 12 contacts, 0.635mm pitch ribbon cable following the same rules of Eurorack power ribbon cables.
+> [!WARNING]
+> Cable's red stripe is indicated on the module pcb by a white line (EXP-FX) and small white dot (Sibilla).
+Please watch carefully the manual's illustration before connecting EXP-FX to Sibilla.
 
 ### Firmware upload
 
