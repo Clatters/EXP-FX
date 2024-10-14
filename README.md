@@ -3,18 +3,33 @@ EXP-FX, Il Sole e la Luna (eg. The Sun and the Moon) is an expansion module for 
 
 Depending on the Sibilla uploaded firmware, EXP-FX can either act as an actual Sibilla expander, giving you direct control on more Sibilla’s parameters, or can turn your module into a stereo pitchshifting droning effect, allowing you to process your favourite oscillator the same way Sibilla processes its internal waveforms.
 
-> [!IMPORTANT]
-> Regardless on the desired EXP or FX application, Sibilla needs to be reprogrammed in order to accept EXP-FX as an expansion module. The programming procedure is very similar to the one used to update Sibilla, but with a few extra steps. Please visit the dedicated section on the [Sibilla Setup and Programming page](https://github.com/Clatters/Sibilla/tree/main/Official%20firmwares).
-
 ## Table of contents
 
+- [Installation and firmware upload](#Installation-and-firmware-upload)
 - [EXP (il Sole)](#EXP-il-Sole)
 - [FX (la Luna)](#FX-la-Luna)
 - [Power consumption](#power-consumption)
-- [Installation and firmware upload](#Installation-and-firmware-upload)
+
+
 
 
 <br/><br/><br/>
+
+## Installation and firmware upload
+
+### Installation
+
+EXP-FX connects to Sibilla with a small 12 contacts, 0.635mm pitch ribbon cable following the same rules of Eurorack power ribbon cables.
+> [!WARNING]
+> Cable's red stripe is indicated on the module pcb by a white line (EXP-FX) and small white dot (Sibilla).
+Please watch carefully the manual's illustration before connecting EXP-FX to Sibilla.
+
+### Firmware upload
+
+> [!IMPORTANT]
+> Regardless on the desired EXP or FX application, **Sibilla needs to be reprogrammed in order to accept EXP-FX as an expansion module.**
+
+The programming procedure is very similar to the one used to update Sibilla, but with a few extra steps; it doesn't require any external program nor file to be downloaded and it can be entirely performed on Clatters Machines' website. Please visit the dedicated section on the [Sibilla Setup and Programming page](https://github.com/Clatters/Sibilla/tree/main/Official%20firmwares).
 
 ## EXP (il Sole)
 <h3 align="center">
@@ -70,17 +85,4 @@ EXP-FX doesn't draw current directly from your system but relies on Sibilla's po
   - +12V: 142mA;
   - -12V: 35mA;
   - +5V: 0mA;
-
-## Installation and firmware upload
-
-### Installation
-
-EXP-FX connects to Sibilla with a small 12 contacts, 0.635mm pitch ribbon cable following the same rules of Eurorack power ribbon cables.
-> [!WARNING]
-> Cable's red stripe is indicated on the module pcb by a white line (EXP-FX) and small white dot (Sibilla).
-Please watch carefully the manual's illustration before connecting EXP-FX to Sibilla.
-
-### Firmware upload
-
-Sibilla needs to be reprogrammed in order to accept EXP-FX as an expansion module. Regardless on the desired EXP or FX firmware, the programming procedure is very similar to the one used to update Sibilla, but with a few extra steps. Please visit the dedicated section on the [Sibilla Setup and Programming page](https://github.com/Clatters/Sibilla/tree/main/Official%20firmwares).
 
