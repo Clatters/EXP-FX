@@ -3,6 +3,8 @@ EXP-FX, Il Sole e la Luna (eg. The Sun and the Moon) is an expansion module for 
 
 Depending on the Sibilla uploaded firmware, EXP-FX can either act as an actual Sibilla expander, giving you direct control on more Sibilla’s parameters, or can turn your module into a stereo pitchshifting droning effect, allowing you to process your favourite oscillator the same way Sibilla processes its internal waveforms.
 
+![EXP-FX](EXP-FX_black&silver_render.png)
+
 ## Table of contents
 
 - [Installation and firmware upload](#Installation-and-firmware-upload)
