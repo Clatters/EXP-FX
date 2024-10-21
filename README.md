@@ -31,7 +31,8 @@ Please watch carefully the manual's illustration before connecting EXP-FX to Sib
 > [!IMPORTANT]
 > Regardless on the desired EXP or FX application, **Sibilla needs to be reprogrammed in order to accept EXP-FX as an expansion module.**
 
-The programming procedure is very similar to the one used to update Sibilla, but with a few extra steps; it doesn't require any external program nor file to be downloaded and it can be entirely performed on Clatters Machines' website. Please visit the dedicated section on the [Sibilla Setup and Programming page](https://github.com/Clatters/Sibilla/tree/main/Official%20firmwares).
+The programming procedure is very similar to the one used to update Sibilla, but with a few extra steps; it doesn't require any external program nor file to be downloaded and it can be entirely performed on Clatters Machines' website. <br/>
+For detailed info, please visit the dedicated section on the [Sibilla Setup and Programming page](https://github.com/Clatters/Sibilla/tree/main/Official%20firmwares).
 
 ## EXP (il Sole)
 <h3 align="center">
@@ -72,7 +73,8 @@ Every knob but the Line Gain is CV controllable and accepts ±5V while the Freez
 
   ----
 
-More information on both firmwares behavious are available by downloading the product manual pdf in the [downloads](https://clattersmachines.com/users-manual/) section of Clatters Machines website.
+> [!NOTE]
+> More information on both firmwares behavious are available by downloading the product manual pdf in the [downloads](https://clattersmachines.com/users-manual/) section of Clatters Machines website.
 
 ## Power consumption
 
