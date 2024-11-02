@@ -80,13 +80,9 @@ Every knob but the Line Gain is CV controllable and accepts ±5V while the Freez
 
 EXP-FX doesn't draw current directly from your system but relies on Sibilla's power; for this reason, depending on the uploaded firmware, Sibilla's power consumption will change as follows:
 
-- **EXP**
-  - +12V: 140mA;
-  - -12V: 33mA;
-  - +5V: 0mA;
-
-- **FX**
-  - +12V: 142mA;
-  - -12V: 35mA;
-  - +5V: 0mA;
+| EXP | FX |
+| ------------- | ------------- |
+| +12V: 140mA  | +12V: 142mA  |
+| -12V: 33mA  | -12V: 35mA  |
+| +5V: 0mA  | +5V: 0mA   |
 
