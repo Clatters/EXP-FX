@@ -34,6 +34,8 @@ Please watch carefully the manual's illustration before connecting EXP-FX to Sib
 The programming procedure is very similar to the one used to update Sibilla, but with a few extra steps; it doesn't require any external program nor file to be downloaded and it can be entirely performed on Clatters Machines' website. <br/>
 For detailed info, please visit the dedicated section on the [Sibilla Setup and Programming page](https://github.com/Clatters/Sibilla/tree/main/Official%20firmwares).
 
+A dedicated video tutorial about the programming procedure is also available here: https://youtu.be/G4hA7FitUPQ
+
 ## EXP (il Sole)
 <h3 align="center">
 Everything regarding EXP is written with golden graphics on the module faceplate.
@@ -75,6 +77,9 @@ Every knob but the Line Gain is CV controllable and accepts ±5V while the Freez
 
 > [!NOTE]
 > More information on both firmwares behavious are available by downloading the product manual pdf in the [downloads](https://clattersmachines.com/users-manual/) section of Clatters Machines website.
+
+### Demo
+Watch the complete video manual here: https://youtu.be/Ak7bAQry2VU
 
 ## Power consumption
 
